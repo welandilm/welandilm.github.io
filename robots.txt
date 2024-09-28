@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://welandilm.github.io/sitemap.welandilm.gz
+Sitemap: https://welandilm.github.io/app/sitemap.welandilm.gz
+Sitemap: https://welandilm.github.io/assets/sitemap.welandilm.gz
+Sitemap: https://welandilm.github.io/css/sitemap.welandilm.gz
+Sitemap: https://welandilm.github.io/data/sitemap.welandilm.gz
+Sitemap: https://welandilm.github.io/includes/sitemap.welandilm.gz
+Sitemap: https://welandilm.github.io/item/sitemap.welandilm.gz
+Sitemap: https://welandilm.github.io/src/sitemap.welandilm.gz
